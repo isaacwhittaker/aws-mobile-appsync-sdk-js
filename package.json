@@ -8,5 +8,6 @@
     ],
     "devDependencies": {
         "lerna": "^2.9.0"
-    }
+    },
+    "name": "aws-mobile-appsync-sdk-js"
 }
